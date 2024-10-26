@@ -1,0 +1,29 @@
+
+:root {
+    --background-color-light:#fff5f5;
+    --text-color-light: #000000; 
+    --background-color-dark: #000000; 
+    --text-color-dark: #ffffff; 
+}
+
+.footer {
+   
+    justify-content: space-between;
+    padding: 15px 20px;
+    background-color: rgba(255, 255, 255, 0.215); 
+    backdrop-filter: blur(15px); 
+    color: var(--text-color-light);
+    border-radius: 10px; 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); 
+    transition: background-color 0.3s, color 0.3s; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+    box-sizing: border-box; 
+    text-align: center;
+
+}
+
+.footer-dark {
+    background-color: var(--background-color-dark); 
+    color: var(--text-color-dark); 
+}
