@@ -13,17 +13,17 @@ const Blog = () => {
             posts: [
                 {
                     title: 'Entrada 1',
-                    description: 'Descripción de la entrada 1...',
+                    description: 'Descripción de la entrada ',
                     link: '#'
                 },
                 {
                     title: 'Entrada 2',
-                    description: 'Descripción de la entrada 2...',
+                    description: 'Descripción de la entrada.',
                     link: '#'
                 },
                 {
                     title: 'Entrada 3',
-                    description: 'Descripción de la entrada 3...',
+                    description: 'Descripción de la entrada',
                     link: '#'
                 }
             ]
@@ -33,17 +33,17 @@ const Blog = () => {
             posts: [
                 {
                     title: 'Post 1',
-                    description: 'Description of post 1...',
+                    description: 'Description of post ',
                     link: '#'
                 },
                 {
                     title: 'Post 2',
-                    description: 'Description of post 2...',
+                    description: 'Description of post ',
                     link: '#'
                 },
                 {
                     title: 'Post 3',
-                    description: 'Description of post 3...',
+                    description: 'Description of post ',
                     link: '#'
                 }
             ]

@@ -13,17 +13,17 @@ const Portfolio = () => {
             projects: [
                 {
                     title: 'Hackaton Web Page',
-                    description: 'Descripción del proyecto 1...',
+                    description: 'Descripción del proyecto ',
                     link: '#'
                 },
                 {
                     title: 'API restful',
-                    description: 'Descripción del proyecto 2...',
+                    description: 'Descripción del proyecto 2',
                     link: '#'
                 },
                 {
                     title: 'Geek Hub Ecommerce',
-                    description: 'Descripción del proyecto 3...',
+                    description: 'Descripción del proyecto 3',
                     link: '#'
                 }
             ]
@@ -32,18 +32,18 @@ const Portfolio = () => {
             title: 'My Portfolio',
             projects: [
                 {
-                    title: 'Project 1',
-                    description: 'Description of project 1...',
+                    title: 'Hackaton Web Pag',
+                    description: 'Description of project ',
                     link: '#'
                 },
                 {
-                    title: 'Project 2',
-                    description: 'Description of project 2...',
+                    title: 'API restful',
+                    description: 'Description of project',
                     link: '#'
                 },
                 {
-                    title: 'Project 3',
-                    description: 'Description of project 3...',
+                    title: 'Geek Hub Ecommerce',
+                    description: 'Description of project',
                     link: '#'
                 }
             ]
