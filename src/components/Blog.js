@@ -12,7 +12,7 @@ const Blog = () => {
             title: 'Mi Blog',
             posts: [
                 {
-                    title: 'Entrada 1',
+                    title: 'Reflexión de mi camino como desarrolladora Java',
                     description: 'Descripción de la entrada ',
                     link: '#'
                 },
@@ -32,7 +32,7 @@ const Blog = () => {
             title: 'My Blog',
             posts: [
                 {
-                    title: 'Post 1',
+                    title: 'A reflection about my journey as Java Developer',
                     description: 'Description of post ',
                     link: '#'
                 },
