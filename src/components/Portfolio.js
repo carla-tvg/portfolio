@@ -12,17 +12,17 @@ const Portfolio = () => {
             title: 'Mi Portafolio',
             projects: [
                 {
-                    title: 'Proyecto 1',
+                    title: 'Hackaton Web Page',
                     description: 'Descripción del proyecto 1...',
                     link: '#'
                 },
                 {
-                    title: 'Proyecto 2',
+                    title: 'API restful',
                     description: 'Descripción del proyecto 2...',
                     link: '#'
                 },
                 {
-                    title: 'Proyecto 3',
+                    title: 'Geek Hub Ecommerce',
                     description: 'Descripción del proyecto 3...',
                     link: '#'
                 }
